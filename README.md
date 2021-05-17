@@ -1,8 +1,8 @@
 # Variable Assignment
 
-## Objectives
+## Learning Goals
 
-1. Assign a local variable.
+- Assign a local variable.
 
 ## Instructions
 
